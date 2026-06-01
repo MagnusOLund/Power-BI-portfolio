@@ -23,7 +23,6 @@ Alle datakilder er angivet direkte i dashboardene.
 Retail-dashboard bygget på et fiktivt datasæt. Analyserer salgs- og marketingperformance på tværs af produkter og regioner og samler det i ét overblik til beslutningsstøtte.
 
 - **Data:** Fiktivt datasæt
-- **Filer:** [Power BI (.pbix)](Nordic%20retail_1.semester_fiktivt_datas%C3%A6t.pbix) · [PDF](Nordic%20retail_1.semester_fiktivt_datas%C3%A6t.pdf)
 
 <!-- Valgfri forhåndsvisning: læg en PNG i repoet og fjern kommentaren herunder
 
@@ -33,13 +32,11 @@ Retail-dashboard bygget på et fiktivt datasæt. Analyserer salgs- og marketingp
 Eksamensdashboard, der understøtter en datadrevet, strategisk vurdering af et digitalt koncept for LEGO. Forretnings- og markedstal er samlet i én model og formidlet visuelt.
 
 - **Data:** LEGO årsrapport, Statista og børns spillevaner 2020/2023
-- **Filer:** [Power BI (.pbix)](LEGO%20Dashboard_1.semester_Eksamen.pbix) · [PDF](LEGO%20Dashboard_1.semester_Eksamen.pdf)
 
 ### DigitalLead
 Eksamensforudsætning om DigitalLead og digitaliseringsgabet i dansk erhvervsliv med fokus på SMV'er
 
 - **Data:** Danmarks Statistik
-- **Filer:** [Power BI (.pbix)](DigitalLead_1.semester_eksamensforuds%C3%A6tning.pbix) · [PDF](DigitalLead_1.semester_eksamensforuds%C3%A6tning.pdf)
 
 ---
 
